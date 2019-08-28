@@ -1,3 +1,3 @@
-# Express Node Tester
+# Express Node Test Site
 
-First build of an entire app with Express and Node. \
+Test build of an entire app with Express and Node.

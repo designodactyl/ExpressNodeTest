@@ -1,0 +1,22 @@
+{
+  "name": "express_nodejs_project",
+  "version": "0.0.1",
+  "description": "Express Node Test Site",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/designodactyl/ExpressNodeTest.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/designodactyl/ExpressNodeTest/issues"
+  },
+  "homepage": "https://github.com/designodactyl/ExpressNodeTest#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
